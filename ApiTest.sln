@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DEB8A8D0-AB5F-4E66-9AA6-EAC31F1C8CFA}"
 	ProjectSection(SolutionItems) = preProject
 		Readme.md = Readme.md
+		AeroQual api test.postman_collection.json = AeroQual api test.postman_collection.json
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest.Contracts", "ApiTest.Contracts\ApiTest.Contracts.csproj", "{093700DD-5BEC-4E60-A34D-2BBDC3C28963}"

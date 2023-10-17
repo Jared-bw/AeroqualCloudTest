@@ -21,3 +21,4 @@ _If you have made any design decisions that you would like to explain, please ad
 - Added validation to a number of service methods, and pagination to the GetAll method because why not?
 - Would have written integration tests, but I ended up messing around for far too long figuring out an issue with the JSON data store (and I've got my life to live).
 - Added extension methods to register the data access and application service layer, to keep logic nicely bundled away and to prevent files from bloating.
+- Added a JSON file 'AeroQual api test.postman_collection.json' to easily import/test the endpoints created.
